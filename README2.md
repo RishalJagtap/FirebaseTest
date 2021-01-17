@@ -3,7 +3,7 @@
 
 <h2>Purpose</h2>
 
-<p></p>
+<p>The puirpose of this website is to test the implementation of <b>Firebase</b> into a generic <b>REACTJS</b> website.</p>
 
 <hr/>
 
