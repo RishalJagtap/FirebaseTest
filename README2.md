@@ -17,4 +17,4 @@ In later stages of the project, the goal of the database is to store the informa
 
 <h2>Improvements<h2>
   
-<p> As of now, the website's major function is to display information from the colletion in Firebase. Further improvements would be the completion of the input to allow users to make their own custom choices. In addtion, creating a delete button would be essential to prevent the colletion from being filled with unnecessary data.</p>
+
