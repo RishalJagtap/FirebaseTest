@@ -1,4 +1,5 @@
-<h>Firebase Test Website</h>
+<h1>Firebase Test Website</h1>
+
 <hr/>
 
 <h2>Purpose</h2>
